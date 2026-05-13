@@ -1,6 +1,6 @@
 ## Heading 1 File Description
 
-## Heading 2 activateCmeraScriptOnButtonPress.py
+## Heading 2 activateCameraScriptOnButtonPress.py
 
 This file reads the signal from Arduino, which is activated on a button press 
 telling the system the camera is ready to detect the trash being presented
