@@ -6,7 +6,7 @@ This file reads the signal from Arduino, which is activated on a button press
 telling the system the camera is ready to detect the trash being presented
 
 
-## CameraInterface.py
+## cameraInterface.py
 
 This script is running a trained neural network, which is detecting whether the trash if
 it is organic or recyclable. Based on the pin detected a GPIO pin is activated, and that sends a 
